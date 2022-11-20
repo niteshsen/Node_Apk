@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:niteshsen/Node_Apk.git"
+    "url": "git+github.com:niteshsen/Node_Apk.git"
   },
   "author": "ankit",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AnkitArul007/AirBnb_Clone/issues"
+    "url": "https://github.com/niteshsen/Node_Apk/issues"
   },
-  "homepage": "https://github.com/AnkitArul007/AirBnb_Clone#readme",
+  "homepage": "https://github.com/niteshsen/Node_Apk#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "body-parser": "^1.20.0",
